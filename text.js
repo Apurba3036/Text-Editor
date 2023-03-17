@@ -87,5 +87,5 @@ document.getElementById('reset').addEventListener('click',function(){
   document.getElementById('floatingTextarea2').style.textAlign="left";
   document.getElementById('floatingTextarea2').style.textTransform="none";
   document.getElementById('floatingTextarea2').style.fontStyle="normal";
-
+  document.getElementById('floatingTextarea2').style.fontSize="1rem";
 })
